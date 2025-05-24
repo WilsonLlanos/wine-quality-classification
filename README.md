@@ -46,7 +46,7 @@ Predict wine quality (classified into 3 categories: low, medium, or high) based 
 
 📊 **Results**
 
-1 - Final accuracy with Random Forest: 86.8%
+1 - Final accuracy with Random Forest: 90.9%
 
 2 - ROC AUC score: 91.3%
 

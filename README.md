@@ -1,13 +1,13 @@
 # wine-quality-classification
 
-**🍷 Wine Classification with Machine Learning**
+#🍷 Wine Classification with Machine Learning
 
 - This project aims to classify red wines based on their physicochemical properties using machine learning algorithms. The entire development was carried out on the Databricks platform, covering the full ML pipeline: from data cleaning to model deployment and tracking with MLflow.
 
-🔍 **Objective**
+#🔍 **Objective**
 - Predict wine quality (classified into 3 categories: low, medium, or high) based on chemical attributes using supervised machine learning.
 
-⚙️ **Technologies and Libraries**
+#⚙️ **Technologies and Libraries**
 - Databricks (Apache Spark environment)
 
 - Python
@@ -24,7 +24,7 @@
 
 - Random Forest Classifier
 
-🧪 **Development Pipeline**
+#🧪 **Development Pipeline**
 1 - Exploratory data analysis (visualizations and Sweetviz profiling)
 
 2 - Outlier and missing value treatment
@@ -45,7 +45,7 @@
 
 10 - Prediction testing with new samples
 
-📊 **Results**
+#📊 **Results**
 
 1 - Final accuracy with Random Forest: 90.9%
 
@@ -55,19 +55,19 @@
 
 4 - Model able to generalize well for new input samples
 
-🧠 **Key Learnings**
+#🧠 **Key Learnings**
 Although the first model tested was Logistic Regression, it did not perform well with the multi-class problem. Instead of overfitting this simpler model, I switched to Random Forest, which significantly improved the results. This decision emphasized the importance of experimenting with different models and validating them with proper metrics.
 
-📁 **Project Access**
+#📁 **Project Access**
 This project was entirely developed on Databricks. You can:
 
 Access the notebook: [wine-quality-classification](https://github.com/WilsonLlanos/wine-quality-classification/blob/main/wine-quality-classification.ipynb)
 
 Review the registered model and metrics through the MLflow dashboard
 
-📎 **Dataset**
+#📎 **Dataset**
 Red Wine Quality Dataset
 Available at: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009?resource=download
 
-📬 **Contact**
+#📬 **Contact**
 If you have questions, feedback, or opportunities to collaborate, feel free to reach out via LinkedIn.

@@ -2,10 +2,10 @@
 
 **🍷 Wine Classification with Machine Learning**
 
-_This project aims to classify red wines based on their physicochemical properties using machine learning algorithms. The entire development was carried out on the Databricks platform, covering the full ML pipeline: from data cleaning to model deployment and tracking with MLflow.
+- This project aims to classify red wines based on their physicochemical properties using machine learning algorithms. The entire development was carried out on the Databricks platform, covering the full ML pipeline: from data cleaning to model deployment and tracking with MLflow.
 
 🔍 **Objective**
-Predict wine quality (classified into 3 categories: low, medium, or high) based on chemical attributes using supervised machine learning.
+- Predict wine quality (classified into 3 categories: low, medium, or high) based on chemical attributes using supervised machine learning.
 
 ⚙️ **Technologies and Libraries**
 - Databricks (Apache Spark environment)
@@ -25,25 +25,25 @@ Predict wine quality (classified into 3 categories: low, medium, or high) based 
 - Random Forest Classifier
 
 🧪 **Development Pipeline**
-- Exploratory data analysis (visualizations and Sweetviz profiling)
+1 - Exploratory data analysis (visualizations and Sweetviz profiling)
 
-- Outlier and missing value treatment
+2 - Outlier and missing value treatment
 
-- Reclassification of the target variable (quality) into 3 categories
+3 - Reclassification of the target variable (quality) into 3 categories
 
-- Data balancing using SMOTE
+4 - Data balancing using SMOTE
 
-- Feature scaling using StandardScaler
+5 - Feature scaling using StandardScaler
 
-- Training models: Logistic Regression and Random Forest
+6 - Training models: Logistic Regression and Random Forest
 
-- Hyperparameter tuning with RandomizedSearchCV
+7 - Hyperparameter tuning with RandomizedSearchCV
 
-- Model evaluation using metrics such as Accuracy and ROC AUC
+8 - Model evaluation using metrics such as Accuracy and ROC AUC
 
-- Model registration and signature tracking using MLflow
+9 - Model registration and signature tracking using MLflow
 
-- Prediction testing with new samples
+10 - Prediction testing with new samples
 
 📊 **Results**
 

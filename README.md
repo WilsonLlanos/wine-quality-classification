@@ -60,7 +60,7 @@ Although the first model tested was Logistic Regression, it did not perform well
 📁 **Project Access**
 This project was entirely developed on Databricks. You can:
 
-Access the notebook: [./notebooks/classificacao-vinhos.ipynb](https://github.com/WilsonLlanos/wine-quality-classification/blob/main/wine-quality-classification.ipynb)
+Access the notebook: [wine-quality-classification](https://github.com/WilsonLlanos/wine-quality-classification/blob/main/wine-quality-classification.ipynb)
 
 Review the registered model and metrics through the MLflow dashboard
 

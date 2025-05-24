@@ -2,7 +2,7 @@
 
 **🍷 Wine Classification with Machine Learning**
 
-This project aims to classify red wines based on their physicochemical properties using machine learning algorithms. The entire development was carried out on the Databricks platform, covering the full ML pipeline: from data cleaning to model deployment and tracking with MLflow.
+_This project aims to classify red wines based on their physicochemical properties using machine learning algorithms. The entire development was carried out on the Databricks platform, covering the full ML pipeline: from data cleaning to model deployment and tracking with MLflow.
 
 🔍 **Objective**
 Predict wine quality (classified into 3 categories: low, medium, or high) based on chemical attributes using supervised machine learning.

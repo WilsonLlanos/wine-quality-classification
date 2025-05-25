@@ -70,4 +70,4 @@ Red Wine Quality Dataset
 Available at: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009?resource=download
 
 📬 **Contact**
-If you have questions, feedback, or opportunities to collaborate, feel free to reach out via LinkedIn.
+If you have questions, feedback, or opportunities to collaborate, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/wilson-llanos/).
